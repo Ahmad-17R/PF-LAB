@@ -1,0 +1,6 @@
+Name: Ahmad
+Age: 19
+Matric Marks: 1096
+Fsc Marks: 998
+Ecat Marks: 236
+
